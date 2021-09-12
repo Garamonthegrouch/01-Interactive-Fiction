@@ -1,9 +1,15 @@
 # 01-Interactive-Fiction
-  9/11/21
-  Fictional Game
-# Implementation
+assignment for MSCH-C220, 9 September 2021
+
+A simple interactive-fiction game loop implemented in Python.
+
+## Implementation
+Created using Python 3.9
+
 # References
+
 # Future Development
-  possible
+unknown
+
 # Created by
-  Mark Grosser
+Mark Grosser
