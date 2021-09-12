@@ -1,2 +1,9 @@
 # 01-Interactive-Fiction
-Fictional Game
+  9/11/21
+  Fictional Game
+# Implementation
+# References
+# Future Development
+  possible
+# Created by
+  Mark Grosser
